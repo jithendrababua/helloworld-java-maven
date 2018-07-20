@@ -38,18 +38,20 @@
 	</plugins>
 	</build>
   
+
 <distributionManagement>
     <repository>
-        <id>00321bca3728</id>
-        <name>00321bca3728-releases</name>
-        <url>http://13.126.184.229:8085/artifactory/verizon</url>
+        <id>4ace8cfba851</id>
+        <name>4ace8cfba851-releases</name>
+        <url>http://10.76.118.113:8085/artifactory/jita</url>
     </repository>
     <snapshotRepository>
-        <id>00321bca3728</id>
-        <name>00321bca3728-snapshots</name>
-        <url>http://13.126.184.229:8085/artifactory/verizon</url>
+        <id>4ace8cfba851</id>
+        <name>4ace8cfba851-snapshots</name>
+        <url>http://10.76.118.113:8085/artifactory/jita</url>
     </snapshotRepository>
 </distributionManagement>
+
 
 
 
